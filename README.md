@@ -1,1 +1,2 @@
 # The_Busy_City_life
+Imagine an interactive computer graphics project that immerses users in the bustling life of a city. With user controls at their fingertips, they can seamlessly switch between daytime (D) and nighttime (N) scenes, pause the action (S), or even rewind the flow of vehicles (R). To add excitement, users can accelerate with a right-click or decelerate with a left-click, controlling the pace of the bustling urban environment.
